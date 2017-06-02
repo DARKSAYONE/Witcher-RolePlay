@@ -1,0 +1,9 @@
+﻿ITEM.name = "Бочка"
+ITEM.desc = "Вообще, в бочках хранят различного рода жидкости, но можно запихнуть сюда и краснолюда."
+ITEM.model = "models/barrel.mdl"
+ITEM.width = 2
+ITEM.height = 4
+ITEM.invW = 2
+ITEM.invH = 4
+ITEM.locksound = "hgn/crussaria/devices/door_regular_stopclose.wav"
+ITEM.opensound = "hgn/crussaria/devices/door_regular_opening.wav"

@@ -1,0 +1,10 @@
+ITEM.name = "Томат"
+ITEM.desc = "Сочный, румяный плод."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/fruits/red_apple.mdl"
+ITEM.hunger = 25
+ITEM.thirst = 20
+ITEM.drunk = -10
+ITEM.price = 5
+ITEM.quantity = 1
+ITEM.permit = "food"

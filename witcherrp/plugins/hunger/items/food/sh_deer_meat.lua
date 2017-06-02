@@ -1,0 +1,9 @@
+ITEM.name = "Оленина"
+ITEM.desc = "Сырое мясо оленя."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/ham_dry/ham_dry.mdl"
+ITEM.hunger = 20
+ITEM.thirst = 0
+ITEM.price = 100
+ITEM.quantity = 3
+ITEM.permit = "food"

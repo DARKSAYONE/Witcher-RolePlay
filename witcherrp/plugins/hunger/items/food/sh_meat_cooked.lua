@@ -1,0 +1,9 @@
+ITEM.name = "Вино Эст-Эст"
+ITEM.desc = "Лучшее вино с виноградников Туссента."
+ITEM.category = "Еда"
+ITEM.model = "models/props_junk/GlassBottle01a.mdl"
+ITEM.hunger = 0
+ITEM.thirst = 50
+ITEM.price = 100
+ITEM.quantity = 4
+ITEM.permit = "food"

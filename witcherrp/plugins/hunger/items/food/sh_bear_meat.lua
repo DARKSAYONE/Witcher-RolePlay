@@ -1,0 +1,9 @@
+ITEM.name = "Медвежатина"
+ITEM.desc = "Сырое мясо медведя."
+ITEM.category = "Еда"
+ITEM.model = "models/aoc_outdoor/meat_03.mdl"
+ITEM.hunger = 25
+ITEM.thirst = 0
+ITEM.price = 100
+ITEM.quantity = 3
+ITEM.permit = "food"

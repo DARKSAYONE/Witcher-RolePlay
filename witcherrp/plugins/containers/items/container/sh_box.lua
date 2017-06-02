@@ -1,0 +1,9 @@
+﻿ITEM.name = "Деревянная коробка"
+ITEM.desc = "Простейший деревянный ящик."
+ITEM.model = "models/container4.mdl"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.invW = 4
+ITEM.invH = 4
+ITEM.locksound = "hgn/crussaria/devices/door_regular_stopclose.wav"
+ITEM.opensound = "hgn/crussaria/devices/door_regular_opening.wav"

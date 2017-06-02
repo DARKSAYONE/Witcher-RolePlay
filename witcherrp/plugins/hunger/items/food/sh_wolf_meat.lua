@@ -1,0 +1,9 @@
+ITEM.name = "Волчатина"
+ITEM.desc = "Сырое мясо волка."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/ribs/ribs.mdl"
+ITEM.hunger = 20
+ITEM.thirst = 0
+ITEM.price = 100
+ITEM.quantity = 3
+ITEM.permit = "food"

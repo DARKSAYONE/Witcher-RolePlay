@@ -1,0 +1,10 @@
+ITEM.name = "Молоко"
+ITEM.desc = "Свежее молоко."
+ITEM.category = "Еда"
+ITEM.model = "models/props/furnitures/mn/mn_pot/mn_pot.mdl"
+ITEM.Width = 1
+ITEM.thirst = 45
+ITEM.hunger = 15
+ITEM.force = -25
+ITEM.Height = 1
+ITEM.price = 50

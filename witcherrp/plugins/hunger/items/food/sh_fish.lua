@@ -1,0 +1,9 @@
+ITEM.name = "Вяленая рыба"
+ITEM.desc = "Засушенный лосось."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/fish/fish01.mdl"
+ITEM.hunger = 25
+ITEM.thirst = -25
+ITEM.price = 10
+ITEM.quantity = 3
+ITEM.permit = "food"

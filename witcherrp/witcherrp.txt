@@ -1,0 +1,7 @@
+"witcherrp"
+{
+	"base"		"nutscript"
+	"title"		"WitcherRP"
+	"author"	"AleXXX_007"
+	"menusystem"	"1"
+}

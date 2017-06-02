@@ -1,0 +1,10 @@
+ITEM.name = "Фляга"
+ITEM.desc = "Пустая фляга. Можно наполнить у источника воды."
+ITEM.category = "Еда"
+ITEM.model = "models/toussaint_bottle5.mdl"
+ITEM.empty = true
+ITEM.hunger = 0
+ITEM.thirst = 0
+ITEM.price = 20
+ITEM.quantity = 0
+ITEM.permit = "food"

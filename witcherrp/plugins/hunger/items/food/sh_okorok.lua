@@ -1,0 +1,9 @@
+ITEM.name = "Свиной окорок"
+ITEM.desc = "Большой вяленый окорок."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/ham_dry/ham_dry.mdl"
+ITEM.hunger = 75
+ITEM.thirst = -15
+ITEM.price = 50
+ITEM.quantity = 5
+ITEM.permit = "food"

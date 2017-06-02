@@ -1,0 +1,9 @@
+ITEM.name = "Жареный цыплёнок"
+ITEM.desc = "Хватит, чтобы накормить семью бедняков."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/chicken/roasted_chicken.mdl"
+ITEM.hunger = 50
+ITEM.thirst = 0
+ITEM.price = 30
+ITEM.quantity = 3
+ITEM.permit = "food"

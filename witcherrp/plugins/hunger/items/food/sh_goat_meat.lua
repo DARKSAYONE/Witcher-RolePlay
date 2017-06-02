@@ -1,0 +1,9 @@
+ITEM.name = "Козлятина"
+ITEM.desc = "Сырое мясо козла. Или козы."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/ribs/ribs.mdl"
+ITEM.hunger = 15
+ITEM.thirst = 0
+ITEM.price = 100
+ITEM.quantity = 3
+ITEM.permit = "food"

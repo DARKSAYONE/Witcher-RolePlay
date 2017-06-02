@@ -1,0 +1,9 @@
+ITEM.name = "Вяленая оленина"
+ITEM.desc = "Имеет приятный запах дыма."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/ham_dry/ham_dry.mdl"
+ITEM.hunger = 40
+ITEM.thirst = 0
+ITEM.price = 100
+ITEM.quantity = 3
+ITEM.permit = "food"

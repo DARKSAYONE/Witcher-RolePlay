@@ -1,0 +1,10 @@
+ITEM.name = "Колбаса"
+ITEM.desc = "Вкусная баранья колбаса."
+ITEM.category = "Еда"
+ITEM.model = "models/aoc_outdoor/sausage_01.mdl"
+ITEM.hunger = 35
+ITEM.thirst = 0
+ITEM.drunk = -10
+ITEM.price = 100
+ITEM.quantity = 3
+ITEM.permit = "food"

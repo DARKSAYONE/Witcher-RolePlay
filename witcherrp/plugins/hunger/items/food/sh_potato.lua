@@ -1,0 +1,9 @@
+ITEM.name = "Картофель"
+ITEM.desc = "Грязная картошка. Лучше приготовить, чем есть сырой."
+ITEM.category = "Еда"
+ITEM.model = "models/props_phx/misc/potato.mdl"
+ITEM.hunger = 15
+ITEM.thirst = 0
+ITEM.price = 5
+ITEM.quantity = 1
+ITEM.permit = "food"

@@ -1,0 +1,9 @@
+ITEM.name = "Жареная волчатина"
+ITEM.desc = "Жилистая волчатина для любителей жесткого мяса."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/ribs/ribs_cooked.mdl"
+ITEM.hunger = 55
+ITEM.thirst = 0
+ITEM.price = 100
+ITEM.quantity = 3
+ITEM.permit = "food"

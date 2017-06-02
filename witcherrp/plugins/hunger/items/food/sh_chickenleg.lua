@@ -1,0 +1,9 @@
+ITEM.name = "Куриная ножка"
+ITEM.desc = "Жареная куриная ножка."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/chicken/cuisse_g.mdl"
+ITEM.hunger = 40
+ITEM.thirst = 0
+ITEM.empty = false
+ITEM.price = 8
+ITEM.permit = "food"

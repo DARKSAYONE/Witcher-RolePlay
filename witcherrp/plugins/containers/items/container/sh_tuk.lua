@@ -1,0 +1,9 @@
+﻿ITEM.name = "Тюк"
+ITEM.desc = "Кожанный тюк. Хорошо подходит для хранения пищи."
+ITEM.model = "models/container.mdl"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.invW = 3
+ITEM.invH = 2
+ITEM.locksound = "hgn/crussaria/items/itm_clothing_down.wav"
+ITEM.opensound = "hgn/crussaria/items/itm_clothing_up.wav"

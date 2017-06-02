@@ -1,0 +1,9 @@
+ITEM.name = "Печёный картофель"
+ITEM.desc = "Мягкий и невероятно вкусный запечёный картофель."
+ITEM.category = "Еда"
+ITEM.model = "models/props_phx/misc/potato.mdl"
+ITEM.hunger = 40
+ITEM.thirst = 0
+ITEM.price = 5
+ITEM.quantity = 1
+ITEM.permit = "food"

@@ -1,0 +1,10 @@
+ITEM.name = "Лук"
+ITEM.desc = "Свежий лук, только сорванный с грядки."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/leeks/leek01.mdl"
+ITEM.hunger = 15
+ITEM.thirst = 0
+ITEM.drunk = -25
+ITEM.price = 5
+ITEM.quantity = 1
+ITEM.permit = "food"

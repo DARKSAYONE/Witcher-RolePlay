@@ -1,0 +1,10 @@
+ITEM.name = "Мёд"
+ITEM.desc = "Очень сладкий мед."
+ITEM.category = "Еда"
+ITEM.model = "models/props/furnitures/mn/mn_pot/mn_pot.mdl"
+ITEM.hunger = 25
+ITEM.thirst = 25
+ITEM.force = -15
+ITEM.price = 20
+ITEM.quantity = 4
+ITEM.permit = "food"

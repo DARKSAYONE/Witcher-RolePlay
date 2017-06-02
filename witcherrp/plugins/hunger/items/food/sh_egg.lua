@@ -1,0 +1,9 @@
+ITEM.name = "Яйцо"
+ITEM.desc = "Говорят, улучшает мужскую потенцию, если засунуть его себе в прямую кишку."
+ITEM.model = "models/props_phx/misc/egg.mdl"
+ITEM.category = "Еда"
+ITEM.Width = 1
+ITEM.Height = 1
+ITEM.drunk = -5
+ITEM.price = 50
+ITEM.permit = "mat"

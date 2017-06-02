@@ -1,0 +1,9 @@
+﻿ITEM.name = "Маленький комод"
+ITEM.desc = "Обычно используется для хранения одежды."
+ITEM.model = "models/cabinets.mdl"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.invW = 4
+ITEM.invH = 2
+ITEM.locksound = "hgn/crussaria/devices/door_regular_stopclose.wav"
+ITEM.opensound = "hgn/crussaria/devices/door_regular_opening.wav"

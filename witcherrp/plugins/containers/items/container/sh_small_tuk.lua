@@ -1,0 +1,9 @@
+﻿ITEM.name = "Маленький тюк"
+ITEM.desc = "Маленький сверток из ткани."
+ITEM.model = "models/container3.mdl"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.invW = 3
+ITEM.invH = 3
+ITEM.locksound = "hgn/crussaria/items/itm_clothing_down.wav"
+ITEM.opensound = "hgn/crussaria/items/itm_clothing_up.wav"

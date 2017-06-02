@@ -1,0 +1,10 @@
+ITEM.name = "Фляга с водой"
+ITEM.desc = "Небольшая фляга с водой."
+ITEM.category = "Еда"
+ITEM.model = "models/toussaint_bottle8.mdl"
+ITEM.hunger = 0
+ITEM.empty = false
+ITEM.thirst = 50
+ITEM.price = 20
+ITEM.quantity = 4
+ITEM.permit = "food"

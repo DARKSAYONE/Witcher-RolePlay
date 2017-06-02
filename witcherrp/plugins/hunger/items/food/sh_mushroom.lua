@@ -1,0 +1,10 @@
+ITEM.name = "Сушеный белый гриб"
+ITEM.desc = "Даже высушенный, он по-прежнему огромен."
+ITEM.category = "Еда"
+ITEM.model = "models/items/provisions/mushroom/mushroom_verymedium.mdl"
+ITEM.hunger = 30
+ITEM.thirst = 0
+ITEM.drunk = -15
+ITEM.price = 6
+ITEM.quantity = 1
+ITEM.permit = "food"
